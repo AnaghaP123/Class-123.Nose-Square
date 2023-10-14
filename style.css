@@ -1,0 +1,34 @@
+#banana
+{
+    font-size:30px;
+    font-style:normal;
+    box-shadow:-10px 10px 10px rgb(218, 114, 131);
+    color:gold;
+    font-family:'Sacramento', cursive;
+}
+
+.note
+{
+    font-size:20px;
+    font-style:normal;
+    font-family: 'Rancho', cursive;
+    color:black;
+}
+
+.copyright_footer
+{
+    position:fixed;
+    font-family: 'Rancho', cursive;
+    color:white;
+    bottom: 0;
+    width: 100%;
+    background-color: grey;
+    line-height: 3;
+    text-align: center;
+}
+
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: -5px 5px 5px rgb(218, 114, 131);
+}
